@@ -25,14 +25,11 @@ The dataset used is the [Heart Disease UCI dataset](https://www.kaggle.com/datas
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
-- Matplotlib, Seaborn
 - Scikit-learn
 
 ## 📊 Models Implemented
 
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Random Forest Classifier
-- Support Vector Machine (SVM)
+  
 
 
